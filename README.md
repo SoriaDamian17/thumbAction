@@ -1,2 +1,2 @@
-thumbAction
+Creador de Thumb
 ===========
